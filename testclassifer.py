@@ -17,6 +17,8 @@ token = util.prompt_for_user_token(username, scope, client_id,
 if token:
     sp = spotipy.Spotify(auth=token)
 
+## check web api auth bc isn't running??
+
     raw_json = sp.current_user_saved_tracks(limit=50)
 
     items = raw_json['items']
