@@ -4,6 +4,8 @@ import sys
 import spotipy
 import spotipy.util as util
 
+#haha i think im so funny hahahahahaha
+
 scope = 'user-library-read'
 
 if len(sys.argv) > 1:
