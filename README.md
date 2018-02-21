@@ -3,4 +3,4 @@ A machine learning web application that uses your Spotify data to predict better
 
 Used this for reference: https://towardsdatascience.com/making-your-own-discover-weekly-f1ac7546fedb
 
-- Work in Progress - 
+*This is currently a work in progress*
