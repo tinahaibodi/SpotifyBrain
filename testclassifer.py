@@ -56,7 +56,6 @@ if token:
     	attributes_array.append(features['key'])
     	attributes_array.append(features['duration_ms'])
     	attributes_array.append(features['loudness'])
-    	attributes_array.append(features['valence'])
     	attributes_array.append(features['mode'])
 
     	song_dict[song_uri] = attributes_array
